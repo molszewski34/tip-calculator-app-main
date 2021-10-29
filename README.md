@@ -1,6 +1,6 @@
 # tip-calculator-app-main
 
-![image](https://github.com/molszewski34/FrontEnd-projects/blob/main/cover-3-column-preview-card-component-main.png)
+![image](https://github.com/molszewski34/tip-calculator-app-main/blob/main/tip-calculator-app-main.png)
 
 tip-calculator-app-main is a simple site build with html,css and javascript. Site offers mobile and desktop viewport to navigate it in optimal way. This project is based on FrontEnd Mentor challenge with link [here](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
 
