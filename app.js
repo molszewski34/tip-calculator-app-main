@@ -60,6 +60,8 @@ form.addEventListener("input", () => {
 resetBtn.addEventListener('click',()=>{
    if((bill.value = "0") && (numPeople.value="0") && (custom.value= "0") &&  (tipDisplay.value = "0") && (totalDisplay.value= "0")){
     resetBtn.disabled = true; 
+    numPeople.style.borderColor = "transparent"
+    bill.style.border = "transparent"
    }
 
 })
