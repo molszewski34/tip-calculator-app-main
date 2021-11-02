@@ -22,6 +22,7 @@ padding: 0;
     --number-inputs-fields: hsl(189, 41%, 97%);
     --White: hsl(0, 0%, 100%);
     --btn-hover: #9FE8DF;
+    --btn-disabled: #0D686D;
 }
 
 html{
@@ -223,9 +224,13 @@ button{
     color: var(--Very-dark-cyan);
 }
 
-/* button:hover{
+button:hover{
     background-color: var(--btn-hover);
-} */
+}
+
+button:disabled{
+    background-color: var(--btn-disabled);
+}
 
 
 
